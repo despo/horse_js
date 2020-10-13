@@ -7,6 +7,11 @@ h4, p {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #6F7E8A;
+}
+
 .row {
   width: auto;
   margin: 10px auto;
