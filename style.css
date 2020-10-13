@@ -12,6 +12,10 @@ a {
   color: #6F7E8A;
 }
 
+small {
+  color: #AFAFAF;
+}
+
 .row {
   width: auto;
   margin: 10px auto;
