@@ -31,7 +31,15 @@ small {
   max-width: 70%;
 }
 
+.column:first-of-type {
+  padding-right: 10px;
+}
+
 .right {
   float: right;
 }
 
+img.avatar {
+  height: 50px;
+  border-radius: 5px;
+}
